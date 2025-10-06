@@ -1,0 +1,50 @@
+.a{
+    border: 50;
+    background-color: black;
+    color: aliceblue;
+    
+} 
+body{
+    background-color: rgb(96, 158, 210);
+}
+.about
+{
+    border: 60;
+    background-color: black;
+color: aliceblue;
+
+}
+
+
+.projects {
+  display: flex;              
+  justify-content: center;   
+  gap: 20px;                
+  flex-wrap: wrap;         
+  margin-top: 20px;
+}
+
+
+.projects #x {
+  background-color: #f9f9f9;  
+  border: 2px solid #ccc;   
+  border-radius: 40px;      
+  box-shadow: 0 88px 8px rgba(0, 0, 0, 0.1);
+  width: 250px;               
+  padding: 20px;             
+  text-align: center;      
+  transition: 0.3s;         
+}
+.Contact
+{
+    text-align: center;
+    background-color: black;
+    color:aliceblue;
+}
+.footer{
+    margin-top: 30px;
+    border: 20;
+    border-style: dashed;
+    background-color: black;
+    color: aliceblue;
+}
